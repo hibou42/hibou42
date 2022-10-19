@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<p align="center">👋 Hello World ! 👋
+ 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="380"/>
   <img src="https://media.giphy.com/media/gRb1341rklANq/giphy.gif" width="400"/>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: hibou42@protonmail.com
 
-- ⚡ Fun fact: I'm able to fly fpv drone. Check this talent on my [YouTube](https://www.youtube.com/channel/UC5-w-UU1sv8zwzfNVXmy2IQ/featured)
+- ⚡ Fun fact: I'm able to fly fpv drone. Check this on my [YouTube](https://www.youtube.com/channel/UC5-w-UU1sv8zwzfNVXmy2IQ/featured)
 
 ---
 
