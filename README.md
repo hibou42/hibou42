@@ -7,13 +7,13 @@
 
 ---
 
-rm -rf /
+### rm -rf * -y
 
 ---
 
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C at Ecole 42 Lausanne
 - 📫 How to reach me: hibou42@protonmail.com
-- ⚡ Fun fact: I'm able to fly fpv drone. Check out this on my [youtube](https://www.youtube.com/channel/UC5-w-UU1sv8zwzfNVXmy2IQ/featured) 
+- ⚡ Fun fact: I'm able to fly fpv drone. Check this talent on my [YouTube](https://www.youtube.com/channel/UC5-w-UU1sv8zwzfNVXmy2IQ/featured)
 
 ---
 
