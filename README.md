@@ -18,6 +18,5 @@
 ### cd && cd.. && cd.. && rm -rf * -y
 
 ---
-## Yummy commits:
-
+### Yummy commits:
 ![Snake animation](https://github.com/hibou42/hibou42/blob/output/github-contribution-grid-snake.svg)
