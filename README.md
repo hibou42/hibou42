@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning C at Ecole 42 Lausanne
+- 🌱 I’m currently learning C and C++ at Ecole 42 Lausanne
 
 - 📫 How to reach me: hibou42@protonmail.com
 
@@ -19,6 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" alt="vim" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="45" height="45"/>
 </p>
@@ -26,5 +27,3 @@
 ---
 
 ### cd && cd.. && cd.. && rm -rf * -y
-
-![Snake animation](https://github.com/hibou42/hibou42/blob/output/github-contribution-grid-snake.svg)
